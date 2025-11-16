@@ -72,9 +72,9 @@ module.exports = {
         }
     },
     server: {
-        guildId: 'YOUR_SERVER_ID',                  // ايدي السيرفر
+        guildId: '1431637729036206145',                  // ايدي السيرفر
         broadcastRoleId: 'YOUR_BROADCAST_ROLE_ID',  // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'YOUR_REPORT_CHANNEL_ID'   // ايدي الروم اللي يرسل فيه البوت التقارير
+        reportChannelId: '1431637730470924399'   // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     // Additional configuration...
 }
@@ -161,5 +161,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [GitHub Repository](https://github.com/wickstudio/discord-broadcast)
 
 ## 👨‍💻 Credits
+
 
 Developed with 💜 by [Wick Studio](https://discord.gg/wicks) 
